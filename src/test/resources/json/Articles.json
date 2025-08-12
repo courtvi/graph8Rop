@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "num": "article 1",
+      "heading": "european parliament",
+      "paragraphes": [
+        {
+          "num": "1.",
+          "content": [
+            {
+              "p": "the european parliament is the assembly elected pursuant to the treaties, ect universal suffrage and national legislation deriving from the treaties."
+            }
+          ]
+        },
+        {
+          "num": "2.",
+          "content": [
+            {
+              "p": "the act of 20 september 1976 concerning the election of the members of the european parliament by direct universal suffrage and national legislation deriving from the treaties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": "article 2",
+      "heading": "independent",
+      "paragraphes": [
+        {
+          "num": "1.",
+          "content": [
+            {
+              "p": "in accordance with article 6(1) of the act of 20 september 1976"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

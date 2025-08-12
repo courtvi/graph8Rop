@@ -1,0 +1,66 @@
+type Query {
+    rops: [Rop]
+    rop(id: ID!): Rop
+    titles(orderBy: TitleOrderBy): [Title]
+    chapters: [Chapter]
+    sections: [Section]
+    articles(orderBy: ArticleOrderBy): [Article]
+}
+
+type Rop {
+    legislature: String
+    docTitle: String
+    titles(orderBy: TitleOrderBy): [Title]
+}
+
+type Title {
+    num: String
+    heading: String
+    chapters:[Chapter]
+    hasArticles : Boolean!
+    articles(orderBy: ArticleOrderBy):[Article]
+}
+
+type Chapter {
+    num: String
+    heading: String
+    sections:[Section]
+    hasArticles : Boolean!
+    articles(orderBy: ArticleOrderBy):[Article]
+}
+
+type Section {
+    num: String
+    heading: String
+    articles(orderBy: ArticleOrderBy):[Article]
+}
+
+type Article {
+    num: String
+    heading: String
+    componentOrder: String
+    paragraphes: [Paragraph]
+}
+
+
+type Annex {
+    # correspond aux champs dans AnnexEntity
+    num: String
+    heading: String
+}
+
+input TitleOrderBy {
+    num: SortDirection
+}
+
+input ArticleOrderBy {
+    componentOrder: SortDirection
+}
+
+enum SortDirection  {
+    ASC
+    DESC
+}
+
+
+

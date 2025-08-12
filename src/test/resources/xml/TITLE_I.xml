@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0"
+            xmlns:xml4ep="http://europarl.europa.eu/xml4ep/3.0.0" xmlns:ep="http://europarl.europa.eu/xml4ep/3.0">
+    <bill name="bill">
+        <meta>
+            <identification source="http://www.europarl.europa.eu/">
+                <FRBRWork>
+                    <FRBRthis xml:id="_161124122753742" value="eu.europa.europarl-ICI1-2015-2015090010"/>
+                    <FRBRuri xml:id="_161124122753743" value="__EMPTY__"/>
+                    <FRBRdate date="2015-09-22" name="instantiation" xml:id="_161124122753744"/>
+                    <FRBRauthor href="__EMPTY__" xml:id="_161124122753745"/>
+                    <FRBRcountry xml:id="_161124122753746" value="eu"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis xml:id="_161124122753748" value="eu.europa.europarl-ICI1-2015-2015090010_01.04-en-01.56"/>
+                    <FRBRuri xml:id="_161124122753749" value="__EMPTY__"/>
+                    <FRBRdate date="2024-07-15" name="instantiation" xml:id="_161124122753750"/>
+                    <FRBRauthor href="at4lex_generic" xml:id="_161124122753751"/>
+                    <FRBRlanguage language="en" xml:id="_111"/>
+                    <FRBRtranslation href="eu.europa.europarl-ICI1-2015-2015090010_01.04-bg-01.56_text-xml"
+                                     fromLanguage="bg" by=""/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis xml:id="_161124122753753"
+                              value="eu.europa.europarl-ICI1-2015-2015090010_01.04-en-01.56_text-xml"/>
+                    <FRBRuri xml:id="_161124122753754" value="__EMPTY__"/>
+                    <FRBRdate date="2024-07-15" name="instantiation" xml:id="_161124122753755"/>
+                    <FRBRauthor href="at4lex_generic" xml:id="_161124122753756"/>
+                </FRBRManifestation>
+            </identification>
+            <analysis source="http://www.europarl.europa.eu/">
+                <otherAnalysis source="http://www.europarl.europa.eu/" xml:id="_161124122753758">
+                    <ep:instanceInfo xml:id="_112">
+                        <ep:standalone xml:id="_161124122753759" value="false"/>
+                        <ep:docClass xml:id="_113" ep:category="xml4ep:/text/category/legal"/>
+                        <ep:EPstatus xml:id="_114" ep:ref="xml4ep:/EPstatus/rulesOfProcedure"/>
+                        <ep:stakeholder xml:id="_115" ep:role="xml4ep:/role/stakeholder/proponent">
+                            <ep:authority xml:id="_116" ep:ref="eu.europa.europarl.codict:institution/id=27"
+                                          ep:role="xml4ep:/role/doc/responsibleAuthority"
+                                          ep:category="xml4ep:/authority/category/institution"/>
+                        </ep:stakeholder>
+                    </ep:instanceInfo>
+                </otherAnalysis>
+            </analysis>
+        </meta>
+        <body xml:id="_161124122753760">
+            <title ep:toc="true" xml:id="_117">
+                <num xml:space="preserve">TITLE I</num><heading xml:space="preserve">MEMBERS, PARLIAMENT BODIES AND POLITICAL GROUPS</heading>
+                <chapter ep:toc="true" xml:id="_129">
+                    <num xml:space="preserve">CHAPTER 1</num>
+                    <heading xml:space="preserve">MEMBERS OF THE EUROPEAN PARLIAMENT</heading>
+                    <article ep:toc="true" xml:id="_131">
+                        <num xml:space="preserve">Rule 1</num>
+                        <heading xml:space="preserve">European Parliament</heading>
+                        <paragraph xml:id="_133">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_1330_1_0">
+                                <p xml:space="preserve">The European Parliament is the assembly elected pursuant to the Treaties, the Act of 20 September 1976 concerning the election of the members of the European Parliament by direct universal suffrage and national legislation deriving from the Treaties.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_135">
+                            <num xml:space="preserve">2.</num>
+                            <list>
+                                <intro>
+                                    <p xml:space="preserve">Persons elected to the European Parliament shall be referred to as:</p>
+                                </intro>
+                                <clause xml:id="_138">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Членове на Европейския парламент&quot; in Bulgarian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_140">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Diputados al Parlamento Europeo&quot; in Spanish,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_142">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Poslanci Evropského parlamentu&quot; in Czech,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_144">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Medlemmer af Europa-Parlamentet&quot; in Danish,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_146">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Mitglieder des Europäischen Parlaments&quot; in German,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_148">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Euroopa Parlamendi liikmed&quot; in Estonian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_150">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Βoυλευτές τoυ Ευρωπαϊκoύ Κoιvoβoυλίoυ&quot; in Greek,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_152">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Members of the European Parliament&quot; in English,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_154">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Députés au Parlement européen&quot; in French,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_156">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Feisirí de Pharlaimint na hEorpa&quot; in Irish,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_158">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Zastupnici u Europskom parlamentu&quot; in Croatian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_160">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Deputati al Parlamento europeo&quot; in Italian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_162">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Eiropas Parlamenta deputāti&quot; in Latvian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_164">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Europos Parlamento nariai&quot; in Lithuanian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_166">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Európai Parlamenti Képviselők&quot; in Hungarian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_168">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Membri tal-Parlament Ewropew&quot; in Maltese,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_170">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Leden van het Europees Parlement&quot; in Dutch,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_172">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Posłowie do Parlamentu Europejskiego&quot; in Polish,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_174">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Deputados ao Parlamento Europeu&quot; in Portuguese,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_176">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Deputaţi în Parlamentul European&quot; in Romanian,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_178">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Poslanci Európskeho parlamentu&quot; in Slovak,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_180">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Poslanci Evropskega parlamenta&quot; in Slovene,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_182">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Euroopan parlamentin jäsenet&quot; in Finnish,</p>
+                                    </content>
+                                </clause>
+                                <clause xml:id="_184">
+                                    <content>
+                                        <p xml:space="preserve">&quot;Ledamöter av Europaparlamentet&quot; in Swedish.</p>
+                                    </content>
+                                </clause>
+                            </list>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_186">
+                        <num xml:space="preserve">Rule 2</num>
+                        <heading xml:space="preserve">Independent mandate</heading>
+                        <alinea xml:id="_188">
+                            <content>
+                                <p xml:space="preserve">In accordance with Article 6(1) of the Act of 20 September 1976 and with Article 2(1) and Article 3(1) of the Statute for Members of the European Parliament, Members shall exercise their mandate freely and independently, shall not be bound by any instructions and shall not receive a binding mandate.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                    <article ep:toc="true" xml:id="_190">
+                        <num xml:space="preserve">Rule 3</num>
+                        <heading xml:space="preserve">Verification of credentials</heading>
+                        <paragraph xml:id="_192">
+                            <num xml:space="preserve">1.</num>
+                            <subparagraph xml:id="_193">
+                                <content>
+                                    <p xml:space="preserve">Following general elections to the European Parliament, the President shall invite the competent authorities of the Member States to notify Parliament without delay of the names of the elected Members so that all Members may take their seats in Parliament with effect from the opening of the first sitting following the elections.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_195">
+                                <content>
+                                    <p xml:space="preserve">At the same time, the President shall draw the attention of those authorities to the relevant provisions of the Act of 20 September 1976 and invite them to take the necessary measures to avoid any incompatibility with the office of Member of the European Parliament.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_197">
+                            <num xml:space="preserve">2.</num>
+                            <subparagraph xml:id="_198">
+                                <content>
+                                    <p xml:space="preserve">Members whose election has been notified to Parliament shall declare in writing, before taking their seat in Parliament, that they do not hold any office incompatible with that of Member of the European Parliament within the meaning of Article 7(1) or (2) of the Act of 20 September 1976. Following general elections, the declaration shall be made, where possible, no later than six days prior to Parliament's first sitting following the elections. Until such time as Members' credentials have been verified or a ruling has been given on any dispute, and provided that they have previously signed the above-mentioned written declaration, they shall take their seat in Parliament and on its bodies and shall enjoy all the rights attaching thereto.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_200">
+                                <content>
+                                    <p xml:space="preserve">Where it is established from facts verifiable from sources available to the public that a Member holds an office incompatible with that of Member of the European Parliament, within the meaning of Article 7(1) or (2) of the Act of 20 September 1976, Parliament, on the basis of the information provided by its President, shall establish that there is a vacancy.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_202">
+                            <num xml:space="preserve">3.</num>
+                            <subparagraph xml:id="_161124123142631">
+                                <content>
+                                    <p xml:space="preserve">On the basis of a report by the committee responsible, Parliament shall verify credentials without delay and rule on the validity of the mandate of each of its newly elected Members and also on any disputes referred to it pursuant to the provisions of the Act of 20 September 1976, other than those which, under that Act, fall exclusively under the national provisions to which that Act refers.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124123132299">
+                                <content>
+                                    <p xml:space="preserve">The committee's report shall be based on the official notification by each Member State of the full results of the election, specifying the names of the candidates elected and those of any substitutes, together with their ranking in accordance with the results of the vote.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124123147234">
+                                <content>
+                                    <p xml:space="preserve">The validity of the mandate of a Member may not be confirmed unless the written declarations required under this Rule and Annex I to these Rules of Procedure have been made.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_204">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_2040_1_0">
+                                <p xml:space="preserve">On the basis of a proposal by the committee responsible, Parliament shall, without delay, verify the credentials of individual Members who are replacing outgoing Members and may at any time rule on any dispute as to the validity of the mandate of any of its Members.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_211">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_2110_1_0">
+                                <p xml:space="preserve">Where the appointment of a Member is due to the withdrawal of candidates from the same list, the committee responsible shall ensure that the withdrawal in question has taken place in accordance with the spirit and the letter of the Act of 20 September 1976 and Rule 4(2).</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_213">
+                            <num xml:space="preserve">6.</num>
+                            <subparagraph xml:id="_214">
+                                <content>
+                                    <p xml:space="preserve">The committee responsible shall ensure that any information which may affect the eligibility of the Member or the eligibility or the ranking of the substitutes is forwarded to Parliament without delay by the authorities of the Member States or of the Union, with, in the case of an appointment, an indication of the date on which it will take effect.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_216">
+                                <content>
+                                    <p xml:space="preserve">Should the competent authorities of the Member States initiate a procedure which might lead to the disqualification of a Member from holding office, the President shall ask them to keep him or her regularly informed of the stage reached in the procedure and shall refer the matter to the committee responsible. On a proposal from that committee, Parliament may adopt a position on the matter.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_218">
+                        <num xml:space="preserve">Rule 4</num>
+                        <heading xml:space="preserve">Term of office of Members</heading>
+                        <paragraph xml:id="_220">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2200_1_0">
+                                <p xml:space="preserve">A Member's term of office begins and ends as laid down in Articles 5 and 13 of the Act of 20 September 1976.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_224">
+                            <num xml:space="preserve">2.</num>
+                            <subparagraph xml:id="_225">
+                                <content>
+                                    <p xml:space="preserve">Members who resign shall notify the President of their resignation and of the date on which that resignation is to take effect, which may not be more than three months after notification. This notification shall take the form of an official record drawn up in the presence of the Secretary-General or his or her representative, signed by the latter and by the Member concerned and immediately submitted to the committee responsible, which shall enter it on the agenda of its first meeting following receipt of the document.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_227">
+                                <content>
+                                    <p xml:space="preserve">If the committee responsible considers that the resignation is in compliance with the Act of 20 September 1976, a vacancy shall be declared with effect from the date indicated by the resigning Member in the official record, and the President shall inform Parliament thereof.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_229">
+                                <content>
+                                    <p xml:space="preserve">If the committee responsible considers that the resignation is not in compliance with the Act of 20 September 1976, it shall propose to Parliament that it not declare a vacancy.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_161124130308254">
+                            <num xml:space="preserve">3.</num>
+                            <list xml:id="_161124130308256">
+                                <intro>
+                                    <p xml:space="preserve">Where no meeting of the committee responsible is scheduled before the next part-session, the rapporteur of the committee responsible shall immediately examine any resignation that has been duly notified. Where delay in considering the notification would be prejudicial, the rapporteur shall refer the matter to the committee Chair, requesting, pursuant to paragraph 2, that:</p>
+                                </intro>
+                                <indent xml:id="_161124130308259">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">the President be informed on behalf of the committee that a vacancy may be declared; or</p>
+                                    </content>
+                                </indent>
+                                <indent xml:id="_161124130308263">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">an extraordinary meeting of the committee be convened to examine specific difficulties noted by the rapporteur.</p>
+                                    </content>
+                                </indent>
+                            </list>
+                        </paragraph>
+                        <paragraph xml:id="_238">
+                            <num xml:space="preserve">4.</num>
+                            <subparagraph xml:id="_239">
+                                <content>
+                                    <p xml:space="preserve">Where either the competent authorities of the Member States or of the Union or the Member concerned notifies the President of an appointment or election to an office that is incompatible with the office of Member of the European Parliament within the meaning of Article 7(1) or (2) of the Act of 20 September 1976, the President shall inform Parliament thereof, and Parliament shall declare that a vacancy exists from the date of the incompatibility.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_241">
+                                <content>
+                                    <p xml:space="preserve">Where the competent authorities of the Member States notify the President of the end of the term of office of a Member of the European Parliament as a result either of an additional incompatibility established by the law of that Member State in accordance with Article 7(3) of the Act of 20 September 1976 or of the withdrawal of the Member’s mandate pursuant to Article 13(3) of that Act, the President shall inform Parliament that the term of office of that Member ended on the date communicated by competent authorities of the Member State. Where no such date is communicated, the date of the end of the term of office shall be the date of the notification by that Member State.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_243">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_2430_1_0">
+                                <p xml:space="preserve">Where the authorities of the Member States or of the Union inform the President of an assignment they intend to entrust to a Member, the President shall refer to the committee responsible the question of the compatibility of the proposed assignment with the Act of 20 September 1976 and shall inform Parliament, the Member and the authorities concerned of the conclusions reached by that committee.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_252">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_2520_1_0">
+                                <p xml:space="preserve">When Parliament has established a vacancy, the President shall inform the Member State concerned thereof, and invite it to fill the seat without delay.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_256">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_2560_1_0">
+                                <p xml:space="preserve">Where acceptance or termination of office appears to be based on material inaccuracy or vitiated consent, Parliament may declare the appointment under consideration to be invalid or may refuse to establish the vacancy.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_258">
+                        <num xml:space="preserve">Rule 5</num>
+                        <heading xml:space="preserve">Privileges and immunities</heading>
+                        <paragraph xml:id="_260">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2600_1_0">
+                                <p xml:space="preserve">Members enjoy the privileges and immunities laid down in the Protocol No 7 on the Privileges and Immunities of the European Union.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_262">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_2620_1_0">
+                                <p xml:space="preserve">In exercising its powers on privileges and immunities, Parliament shall act to uphold its integrity as a democratic legislative assembly and to ensure the independence of its Members in the performance of their duties. Parliamentary immunity is not a Member's personal privilege but a guarantee of the independence of Parliament as a whole, and of its Members.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_264">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_2640_1_0">
+                                <p xml:space="preserve">A laissez-passer of the European Union allowing a Member to circulate freely in the Member States and in other countries which recognise it as a valid travel document shall be issued by the European Union to a Member at his or her request, on condition that the President of the Parliament gives his or her authorisation.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124131008039">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_1611241310080390_1_0">
+                                <p xml:space="preserve">For the purpose of performing their parliamentary duties, all Members shall have the right to participate actively in the work of Parliament’s committees and delegations in accordance with the provisions of these Rules of Procedure.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_266">
+                            <num xml:space="preserve">5.</num>
+                            <subparagraph xml:id="_161124131047694">
+                                <content>
+                                    <p xml:space="preserve">Members shall be entitled to inspect any files held by Parliament or a committee, other than personal files and accounts, which only the Members concerned shall be allowed to inspect. Exceptions to this rule, concerning the handling of documents to which public access may be denied, pursuant to Regulation (EC) No 1049/2001 of the <organization
+                                            ep:ref="eu.europa.europarl.codict:institution/id=27" refersTo=""
+                                            status="verbatim">European Parliament</organization> and of the Council
+                                        <authorialNote marker="1" placement="bottom"
+                                                       ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                       xml:id="_170502102002020"><p><ref href="http://data.europa.eu/eli/reg/2001/1049/oj">Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43, ELI: http://data.europa.eu/eli/reg/2001/1049/oj).</ref></p></authorialNote>,
+                                        are laid down in Rule 227.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124131044709">
+                                <content>
+                                    <p xml:space="preserve">With the approval of the Bureau, a Member may, on the basis of a reasoned decision, be denied the right to inspect a Parliament document if, after hearing the Member concerned, the Bureau comes to the conclusion that such an inspection would cause unacceptable damage to Parliament’s institutional interests or to the public interest, and that the Member concerned is seeking to inspect the document for private and personal reasons. The Member may lodge a written appeal against such a decision within one month of the notification thereof. In order to be admissible, written appeals must include reasons. Parliament shall reach a decision on the appeal without debate during the part-session that follows its lodging.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <hcontainer name="annotation" xml:id="_959312081548123900" refersTo="~_266">
+                            <paragraph>
+                                <content>
+                                    <p xml:space="preserve">Access to confidential information is subject to the rules laid down in interinstitutional agreements concluded by Parliament relating to the treatment of confidential information<authorialNote
+                                            marker="2" placement="bottom"
+                                            ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                            xml:id="_299121817405960450"><p><ref href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2002.298.01.0001.01.ENG">Interinstitutional Agreement of 20 November 2002 between the European Parliament and the Council concerning access by the European Parliament to sensitive information of the Council in the field of security and defence policy (OJ C 298, 30.11.2002, p. 1). Framework Agreement of 20 October 2010 on relations between the European Parliament and the European Commission (OJ L 304, 20.11.2010, p. 47, ELI: http://data.europa.eu/eli/agree_interinstit/2010/1120/oj). Interinstitutional Agreement of 12 March 2014 between the European Parliament and the Council concerning the forwarding to and handling by the European Parliament of classified information held by the Council on matters other than those in the area of the common foreign and security policy (OJ C 95, 1.4.2014, p. 1).</ref></p></authorialNote> and
+                                        to the internal rules for their implementation adopted by Parliament’s competent
+                                        bodies
+                                        <authorialNote marker="3" placement="bottom"
+                                                       ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                       xml:id="_494785268638177150"><p>Decision of the European Parliament of 23 October 2002 on the implementation of the Interinstitutional Agreement governing European Parliament access to sensitive Council information in the sphere of security and defence policy (OJ C 298, 30.11.2002, p. 4). Decision of the Bureau of 15 April 2013 concerning the rules governing the treatment of confidential information by the European Parliament (OJ C 96, 1.4.2014, p. 1).</p></authorialNote>.</p>
+                                </content>
+                            </paragraph>
+                        </hcontainer>
+                    </article>
+                    <article ep:toc="true" xml:id="_268">
+                        <num xml:space="preserve">Rule 6</num>
+                        <heading xml:space="preserve">Waiver of immunity</heading>
+                        <paragraph xml:id="_270">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2700_1_0">
+                                <p xml:space="preserve">Any request for waiver of immunity shall be evaluated in accordance with Articles 7, 8 and 9 of the Protocol No 7 on the Privileges and Immunities of the European Union and with the principles referred to in Rule 5(2).</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_272">
+                            <num xml:space="preserve">2.</num>
+                            <list xml:id="_273">
+                                <intro>
+                                    <p xml:space="preserve">Where Members are required to appear as witnesses or expert witnesses, there is no need to request a waiver of immunity, provided:</p>
+                                </intro>
+                                <indent xml:id="_275">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">that they will not be obliged to appear on a date or at a time which prevents them from performing their parliamentary duties, or makes it difficult for them to perform those duties, or that they will be able to provide a statement in writing or in any other form which does not make it difficult for them to perform their parliamentary duties; and</p>
+                                    </content>
+                                </indent>
+                                <indent xml:id="_277">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">that they are not obliged to testify concerning information obtained confidentially in the performance of their parliamentary duties which they do not see fit to disclose.</p>
+                                    </content>
+                                </indent>
+                            </list>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_279">
+                        <num xml:space="preserve">Rule 7</num>
+                        <heading xml:space="preserve">Defence of privileges and immunity</heading>
+                        <paragraph xml:id="_281">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2810_1_0">
+                                <p xml:space="preserve">In cases where it is alleged that an infringement of the privileges and immunities of a Member or former Member by the authorities of a Member State or by the European Public Prosecutor’s Office has occurred or is about to occur, a request for a Parliament decision as to whether those privileges and immunities have been or are likely to be breached may be made in accordance with Rule 9(1).</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_283">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_2830_1_0">
+                                <p xml:space="preserve">In particular, such a request for the defence of privileges and immunities may be made if it is considered that the circumstances would constitute an administrative or other restriction on the free movement of Members travelling to or from the place of meeting of Parliament or an administrative or other restriction on an opinion expressed or a vote cast in the performance of their duties, or that the circumstances would fall within the scope of Article 9 of the Protocol No 7 on the Privileges and Immunities of the European Union.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_285">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_2850_1_0">
+                                <p xml:space="preserve">A request for the defence of the privileges and immunities of a Member shall not be admissible if a request for the waiver or defence of that Member's immunity has already been received in respect of the same facts, whether or not that earlier request led to a decision.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_287">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_2870_1_0">
+                                <p xml:space="preserve">No further consideration shall be given to a request for the defence of the privileges and immunities of a Member if a request for the waiver of that Member's immunity is received in respect of the same facts.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_289">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_2890_1_0">
+                                <p xml:space="preserve">In cases where a decision has been taken not to defend the privileges and immunities of a Member, the Member may exceptionally make a request for reconsideration of the decision, by submitting new evidence in accordance with Rule 9(1). The request for reconsideration shall be inadmissible if proceedings have been instituted against the decision under Article 263 of the Treaty on the Functioning of the European Union, or if the President considers that the new evidence submitted is insufficiently substantiated to warrant reconsideration.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_291">
+                        <num xml:space="preserve">Rule 8</num>
+                        <heading xml:space="preserve">Urgent action by the President to assert immunity</heading>
+                        <paragraph xml:id="_293">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2930_1_0">
+                                <p xml:space="preserve">As a matter of urgency, in circumstances where a Member is arrested or has his or her freedom of movement curtailed in apparent breach of his or her privileges and immunities, the President may, after consulting the Chair and rapporteur of the committee responsible, take an initiative to assert the privileges and immunities of the Member concerned. The President shall notify the committee of that initiative and inform Parliament.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_295">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_2950_1_0">
+                                <p xml:space="preserve">When the President makes use of the powers conferred on him or her by paragraph 1, the committee shall take cognisance of the President's initiative at its next meeting. Where the committee deems it necessary, it may prepare a report for submission to Parliament.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_297">
+                        <num xml:space="preserve">Rule 9</num>
+                        <heading xml:space="preserve">Procedures on immunity</heading>
+                        <paragraph xml:id="_299">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_2990_1_0">
+                                <p xml:space="preserve">Any request addressed to the President by a competent authority of a Member State or by the European Chief Prosecutor for the immunity of a Member to be waived, or by a Member or a former Member for privileges and immunities to be defended, shall be announced in Parliament and referred to the committee responsible.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124131718022">
+                            <num xml:space="preserve">2.</num>
+                            <subparagraph xml:id="_161206115825620">
+                                <content>
+                                    <p xml:space="preserve">With the agreement of the Member or the former Member concerned, the request may be made by another Member, who shall be permitted to represent the Member or former Member concerned at all stages of the procedure.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161206115823155">
+                                <content>
+                                    <p xml:space="preserve">The Member representing the Member or the former Member concerned shall not be involved in the decisions taken by the committee.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_304">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_3040_1_0">
+                                <p xml:space="preserve">The committee shall consider, without delay but having regard to their relative complexity, requests for the waiver of immunity or requests for the defence of privileges and immunities.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_306">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_3060_1_0">
+                                <p xml:space="preserve">The committee shall make a proposal for a reasoned decision which recommends the adoption or rejection of the request for the waiver of immunity or for the defence of privileges and immunities. Amendments shall not be admissible. If a proposal is rejected, the contrary decision shall be deemed to have been adopted.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_308">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_3080_1_0">
+                                <p xml:space="preserve">The committee may ask the authority of the Member State concerned or, as the case may be, the European Chief Prosecutor to provide any information or explanation, which the committee deems necessary in order for it to form an opinion on whether immunity should be waived or defended.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_310">
+                            <num xml:space="preserve">6.</num>
+                            <subparagraph xml:id="_311">
+                                <content>
+                                    <p xml:space="preserve">The Member concerned shall be given an opportunity to be heard and may present any documents or other written evidence deemed by that Member to be relevant.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_313">
+                                <content>
+                                    <p xml:space="preserve">The Member concerned shall not be present during debates on the request for waiver or defence of his or her immunity, except for the hearing itself.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_315">
+                                <content>
+                                    <p xml:space="preserve">The Chair of the committee shall invite the Member to be heard, indicating a date and time. The Member concerned may renounce the right to be heard.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_317">
+                                <content>
+                                    <p xml:space="preserve">If the Member concerned fails to attend the hearing pursuant to that invitation, he or she shall be deemed to have renounced the right to be heard, unless he or she has asked to be excused from being heard on the date and at the time proposed, and has given his or her reasons. The Chair of the committee shall rule on whether such a request to be excused is to be accepted in view of the reasons given. The Member concerned shall not be permitted to appeal that ruling.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_319">
+                                <content>
+                                    <p xml:space="preserve">If the Chair of the committee grants the request to be excused, he or she shall invite the Member concerned to be heard at a new date and time. If the Member concerned fails to comply with the second invitation to be heard, the procedure shall continue without the Member being heard. No further requests to be excused, or to be heard, may then be accepted.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <hcontainer name="annotation" xml:id="_95931154813900" refersTo="~_310">
+                            <paragraph>
+                                <content>
+                                    <p xml:space="preserve">Rule 222(1), second subparagraph, does not prevent the committee responsible from allowing the remote participation of the Member concerned in an immunity hearing in camera, in accordance with the principles the committee laid down pursuant to Rule 9(13), if that Member is, owing to exceptional and objective circumstances, unable to attend the hearing physically.</p>
+                                </content>
+                            </paragraph>
+                        </hcontainer>
+                        <paragraph xml:id="_321">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_3210_1_0">
+                                <p xml:space="preserve">Where the request seeks the waiver or the defence of immunity on several counts, each of these may be the subject of a separate decision. The committee's report may, exceptionally, propose that the waiver or the defence of immunity should apply solely to prosecution proceedings and that, until a final sentence is passed, the Member should be immune from any form of detention or remand or any other measure which prevents that Member from performing the duties proper to the mandate.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_323">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_3230_1_0">
+                                <p xml:space="preserve">The committee may offer a reasoned opinion as to the competence of the authority of the Member State concerned or, as the case may be, the European Chief Prosecutor and the admissibility of the request, but shall not, under any circumstances, pronounce on the guilt, or otherwise, of the Member, nor shall it pronounce on whether or not the opinions or acts attributed to the Member justify prosecution, even if the committee, in considering the request, acquires detailed knowledge of the facts of the case.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_325">
+                            <num xml:space="preserve">9.</num>
+                            <subparagraph xml:id="_326">
+                                <content>
+                                    <p xml:space="preserve">The committee's proposal for a decision shall be placed on the agenda of the first sitting following the day on which it was tabled. No amendments may be tabled to such a proposal.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_328">
+                                <content>
+                                    <p xml:space="preserve">Discussion shall be confined to the reasons for and against each proposal to waive or uphold immunity, or to defend a privilege or immunity.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_330">
+                                <content>
+                                    <p xml:space="preserve">Without prejudice to Rule 180, the Member whose privileges or immunities are under consideration shall not speak in the debate.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_332">
+                                <content>
+                                    <p xml:space="preserve">The proposal or proposals for a decision contained in the report shall be put to the vote at the first voting time following the debate.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_334">
+                                <content>
+                                    <p xml:space="preserve">After Parliament has considered the matter, a separate vote shall be taken on each of the proposals contained in the report. If a proposal is rejected, the contrary decision shall be deemed to have been adopted.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_336">
+                            <num xml:space="preserve">10.</num>
+                            <content xml:id="_3360_1_0">
+                                <p xml:space="preserve">The President shall immediately communicate Parliament's decision to the Member concerned and to the competent authority of the Member State concerned or, as the case may be, to the European Chief Prosecutor, with a request that the President be informed of any developments and judicial rulings in the relevant proceedings. When the President receives this information, he or she shall transmit it to Parliament in the way he or she considers most appropriate, if necessary after consulting the committee responsible.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_338">
+                            <num xml:space="preserve">11.</num>
+                            <content xml:id="_3380_1_0">
+                                <p xml:space="preserve">The committee shall treat these matters, and handle any documents received with the utmost confidentiality. The committee shall always consider requests relating to procedures on immunity in camera.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_340">
+                            <num xml:space="preserve">12.</num>
+                            <content xml:id="_3400_1_0">
+                                <p xml:space="preserve">Parliament shall only examine requests for the waiver of a Member's immunity that have been transmitted to it by the judicial authorities or by the Permanent Representations of the Member States or, as the case may be, by the European Chief Prosecutor.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_342">
+                            <num xml:space="preserve">13.</num>
+                            <content xml:id="_3420_1_0">
+                                <p xml:space="preserve">The committee shall lay down principles for the application of this Rule.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_344">
+                            <num xml:space="preserve">14.</num>
+                            <content xml:id="_3440_1_0">
+                                <p xml:space="preserve">Any inquiry as to the scope of Members' privileges or immunities made by a competent authority of a Member State or, as the case may be, by the European Public Prosecutor’s Office shall be dealt with in accordance with the above rules.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_350">
+                        <num xml:space="preserve">Rule 10</num>
+                        <heading xml:space="preserve">Standards of conduct</heading>
+                        <paragraph xml:id="_352">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_3520_1_0">
+                                <p xml:space="preserve">The conduct of Members shall be characterised by mutual respect and shall be based on the values and principles laid down in the Treaties, and particularly in the Charter of Fundamental Rights. Members shall respect Parliament’s dignity and shall not harm its reputation.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161214093550727">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_1612140935507270_1_0">
+                                <p xml:space="preserve">Members shall not compromise the smooth conduct of parliamentary business and shall not compromise the maintenance of security and order on Parliament’s premises or the functioning of its equipment.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_358">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_3580_1_0">
+                                <p xml:space="preserve">Members shall not disrupt the good order of the Chamber and shall refrain from improper behaviour. They shall not display banners.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_363">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_3630_1_0">
+                                <p xml:space="preserve">In parliamentary debates in the Chamber, Members shall not resort to offensive language.</p>
+                            </content>
+                        </paragraph>
+                        <hcontainer name="annotation" xml:id="_361089949137754200" refersTo="~_363">
+                            <paragraph>
+                                <content>
+                                    <p xml:space="preserve">The assessment of whether the language used by a Member in a parliamentary debate is offensive or not should take into consideration, inter alia, the identifiable intentions of the speaker, the perception of the statement by the public, the extent to which it harms the dignity and reputation of Parliament, and the freedom of speech of the Member concerned. By way of example, defamatory language, “hate speech” and incitement to discrimination based, in particular, on any ground referred to in Article 21 of the Charter of Fundamental Rights, would ordinarily constitute cases of “offensive language” within the meaning of this Rule.</p>
+                                </content>
+                            </paragraph>
+                        </hcontainer>
+                        <paragraph xml:id="_161124134512814">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_1611241345128140_1_0">
+                                <p xml:space="preserve">Members shall comply with Parliament’s rules on the treatment of confidential information.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_395">
+                            <num xml:space="preserve">6.</num>
+                            <subparagraph xml:id="_005849316907053963">
+                                <content>
+                                    <p xml:space="preserve">Members shall refrain from any type of psychological or sexual harassment and shall respect the Code of appropriate behaviour for Members of the European Parliament in exercising their duties which is attached to these Rules of Procedure as an annex<authorialNote
+                                            marker="4" placement="bottom"
+                                            ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                            xml:id="_683634878265626100"><p>See Annex II.</p></authorialNote>.</p>
+                                </content>
+                            </subparagraph>
+                            <list xml:id="_x1hskk4lak">
+                                <intro>
+                                    <p xml:space="preserve">Members may not be elected as office-holders of Parliament or one of its bodies, be appointed as rapporteur or participate in an official delegation or interinstitutional negotiations:</p>
+                                </intro>
+                                <point xml:id="_x1hskk4lan">
+                                    <num xml:space="preserve">(a)</num>
+                                    <content>
+                                        <p xml:space="preserve">if they have not signed the declaration confirming their commitment to complying with that Code, including completing the specialised training organised for them by Parliament on preventing conflict and harassment in the workplace and on good office management; or</p>
+                                    </content>
+                                </point>
+                                <point xml:id="_x1hskk6bd3">
+                                    <num xml:space="preserve">(b)</num>
+                                    <content>
+                                        <p xml:space="preserve">if they have not completed the specialised training referred to in point (a) in breach of the deadline and conditions laid down in that Code.</p>
+                                    </content>
+                                </point>
+                            </list>
+                        </paragraph>
+                        <paragraph xml:id="_410">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_4100_1_0">
+                                <p xml:space="preserve">Where a person working for a Member, or another person for whom the Member has arranged access to Parliament's premises or equipment, fails to comply with the standards of conduct set out in this Rule, this behaviour may, where appropriate, be imputable to the Member concerned.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_8617316413001674">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_86173164130016740_1_0">
+                                <p xml:space="preserve">The application of this Rule shall not otherwise detract from the liveliness of parliamentary debates, nor shall it undermine Members' freedom of speech.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_989412797820051300">
+                            <num xml:space="preserve">9.</num>
+                            <content xml:id="_9894127978200513000_1_0">
+                                <p xml:space="preserve">This Rule shall apply, <i>mutatis mutandis</i>, in Parliament’s
+                                    bodies, committees and delegations.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_359398278035753660">
+                        <num xml:space="preserve">Rule 11</num>
+                        <heading xml:space="preserve">Rules of conduct regarding integrity and transparency</heading>
+                        <paragraph xml:id="_193501751818572860">
+                            <num xml:space="preserve">1.</num>
+                            <subparagraph xml:id="_866673900143106514">
+                                <content>
+                                    <p xml:space="preserve">Parliament shall lay down rules of conduct regarding integrity and transparency in the form of a Code of Conduct, which shall be adopted by a majority of its component Members and attached to these Rules of Procedure as an annex<authorialNote
+                                            marker="5" placement="bottom"
+                                            ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                            xml:id="_227823186650459870"><p>See Annex I.</p></authorialNote>.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_708445241447132900">
+                                <content>
+                                    <p xml:space="preserve">Those rules shall not otherwise prejudice or restrict Members in the exercise of their office or of any related political or other activity.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_544387357425039500">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5443873574250395000_1_0">
+                                <p xml:space="preserve">The Bureau shall provide the necessary infrastructure on Members’ online page on Parliament’s website for those Members who wish to publish a voluntary audit or confirmation, as provided for under the applicable rules of the Statute for Members and its implementing rules, that their use of the General Expenditure Allowance complies with the applicable rules of the Statute for Members and its implementing measures.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_459849187722541000">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_4598491877225410000_1_0">
+                                <p xml:space="preserve">The code of conduct regarding integrity and transparency for former Members shall be laid down by a decision of the Bureau.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_412">
+                        <num xml:space="preserve">Rule 12</num>
+                        <heading xml:space="preserve">Internal investigations conducted by the European Anti-Fraud Office (OLAF)</heading>
+                        <alinea xml:id="_414">
+                            <content>
+                                <p xml:space="preserve">The common rules laid down in the Interinstitutional Agreement concerning internal investigations by the European Anti-Fraud Office (OLAF)<authorialNote
+                                        marker="6" placement="bottom" ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                        xml:id="_170502105921368"><p><ref href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.136.01.0015.01.ENG">Interinstitutional Agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by the European Anti-fraud Office (OLAF) (31999Q0531, ELI: http://data.europa.eu/eli/agree_interinstit/1999/531/oj).</ref></p></authorialNote> comprising
+                                    the measures that are needed to facilitate the smooth running of investigations
+                                    conducted by the Office shall be applicable within Parliament, pursuant to
+                                    Parliament Decision of 18 November 1999
+                                    <authorialNote marker="7" placement="bottom"
+                                                   ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                   xml:id="_170502105921370"><p>Parliament Decision of 18 November 1999 concerning the terms and conditions for internal investigations in relation to the prevention of fraud corruption and any illegal activity detrimental to the Communities’ interests.</p></authorialNote>.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                    <article ep:toc="true" xml:id="_417">
+                        <num xml:space="preserve">Rule 13</num>
+                        <heading xml:space="preserve">Observers</heading>
+                        <paragraph xml:id="_419">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_4190_1_0">
+                                <p xml:space="preserve">Where a Treaty on the accession of a State to the European Union has been signed, the President may, after obtaining the agreement of the Conference of Presidents, invite the parliament of the acceding State to appoint, from among its own members, a number of observers equal to the number of seats in the European Parliament to be allocated to that State upon accession.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_421">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4210_1_0">
+                                <p xml:space="preserve">Those observers shall take part in the proceedings of Parliament pending the entry into force of the Treaty of Accession, and shall have a right to speak in committees and political groups. They shall not have the right to vote or to stand for election to positions in Parliament, nor shall they represent the Parliament externally. Their participation shall not have any legal effect on Parliament's proceedings.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_423">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_4230_1_0">
+                                <p xml:space="preserve">Their treatment shall be assimilated to that of a Member as regards the use of Parliament's facilities and the reimbursement of travel and subsistence expenses incurred in their activities as observers.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                </chapter>
+                <chapter ep:toc="true" xml:id="_435">
+                    <num xml:space="preserve">CHAPTER 2</num>
+                    <heading xml:space="preserve">OFFICERS OF PARLIAMENT</heading>
+                    <article ep:toc="true" xml:id="_437">
+                        <num xml:space="preserve">Rule 14</num>
+                        <heading xml:space="preserve">Provisional Chair<authorialNote marker="8" placement="bottom"
+                                                                                      ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                                                      xml:id="_870721500440503600"><p>Rule 14 applies mutatis mutandis to committees (see Rule 219(3)).</p></authorialNote></heading>
+                        <paragraph xml:id="_439">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_4390_1_0">
+                                <p xml:space="preserve">At the sitting provided for under Rule 160(2), and at any other sitting held for the purpose of electing the President and the Bureau, the outgoing President or, failing him or her, one of the outgoing Vice-Presidents, determined in accordance with their order of precedence, or, in the absence of any of them, the Member having held office for the longest period shall take the chair until the President has been elected.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_441">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4410_1_0">
+                                <p xml:space="preserve">No business shall be transacted while a Member is provisionally in the chair by virtue of paragraph 1 unless it concerns the election of the President or the verification of credentials under the second subparagraph of Rule 3(2). Any other matter relating to the verification of credentials raised when he or she is in the chair shall be referred to the committee responsible.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_446">
+                        <num xml:space="preserve">Rule 15</num>
+                        <heading xml:space="preserve">Nominations and general provisions<authorialNote marker="9"
+                                                                                                       placement="bottom"
+                                                                                                       ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                                                                       xml:id="_87782019092887860"><p>Rule 15 applies mutatis mutandis to committees (see Rule 219(3)).</p></authorialNote></heading>
+                        <paragraph xml:id="_448">
+                            <num xml:space="preserve">1.</num>
+                            <subparagraph xml:id="_161124141336342">
+                                <content>
+                                    <p xml:space="preserve">The President shall be elected by secret ballot, followed by the Vice-Presidents and the Quaestors, in accordance with Rule 198.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124141333599">
+                                <content>
+                                    <p xml:space="preserve">Nominations shall be with consent of the nominee, and may only be made by a political group or Members reaching at least the low threshold. New nominations may be handed in before each ballot.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124141348547">
+                                <content>
+                                    <p xml:space="preserve">If the number of nominations does not exceed the number of seats to be filled, the candidates shall be elected by acclamation, unless Members or a political group or groups reaching at least the high threshold request a secret ballot.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124141400511">
+                                <content>
+                                    <p xml:space="preserve">In the event of a single ballot for more than one officer, the ballot paper shall only be valid if more than half of the available votes have been cast.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_453">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4530_1_0">
+                                <p xml:space="preserve">When electing the President, Vice-Presidents and Quaestors, account should be taken of the need to ensure an overall fair representation of political views, as well as gender and geographical balance.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_455">
+                        <num xml:space="preserve">Rule 16</num>
+                        <heading xml:space="preserve">Election of President – opening address<authorialNote marker="10"
+                                                                                                            placement="bottom"
+                                                                                                            ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                                                                            xml:id="_97248840080942820"><p>Rule 16 applies mutatis mutandis to committees (see Rule 219(3)).</p></authorialNote></heading>
+                        <paragraph xml:id="_457">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_4570_1_0">
+                                <p xml:space="preserve">Nominations for President shall be handed to the Member provisionally in the chair by virtue of Rule 14, who shall announce them to Parliament. If after three ballots no candidate has obtained an absolute majority of the votes cast, the fourth ballot shall, by way of derogation from Rule 15(1), be confined to the two Members who have obtained the highest number of votes in the third ballot. In the event of a tie, the older candidate shall be declared to have been elected.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_459">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4590_1_0">
+                                <p xml:space="preserve">As soon as the President has been elected, the Member who is provisionally in the chair by virtue of Rule 14 shall vacate the chair. Only the elected President may deliver an opening address.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_461">
+                        <num xml:space="preserve">Rule 17</num>
+                        <heading xml:space="preserve">Election of Vice-Presidents</heading>
+                        <paragraph xml:id="_463">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_4630_1_0">
+                                <p xml:space="preserve">The Vice-Presidents shall then be elected on a single ballot. Those who on the first ballot, up to the number of 14, secure an absolute majority of the votes cast shall be declared to have been elected in order of the number of votes obtained. If the number of candidates elected is less than the number of seats to be filled, a second ballot shall be held under the same conditions to fill the remaining seats. If a third ballot is necessary, a relative majority shall suffice for election to the remaining seats. In the event of a tie, the oldest candidates shall be declared to have been elected.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_468">
+                            <num xml:space="preserve">2.</num>
+                            <subparagraph xml:id="_469">
+                                <content>
+                                    <p xml:space="preserve">Subject to the provisions of Rule 20(1), the Vice-Presidents shall take precedence in the order in which they were elected and, in the event of a tie, by age.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_471">
+                                <content>
+                                    <p xml:space="preserve">If Vice-Presidents are elected by acclamation, a secret ballot shall be held to determine their order of precedence.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_473">
+                        <num xml:space="preserve">Rule 18</num>
+                        <heading xml:space="preserve">Election of Quaestors</heading>
+                        <alinea xml:id="_475">
+                            <content>
+                                <p xml:space="preserve">Parliament shall elect five Quaestors by the same procedure as that used for the election of the Vice-Presidents.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                    <article ep:toc="true" xml:id="_479">
+                        <num xml:space="preserve">Rule 19</num>
+                        <heading xml:space="preserve">Term of office of Officers<authorialNote marker="11"
+                                                                                               placement="bottom"
+                                                                                               ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                                                               xml:id="_720434571275245200"><p>Rule 19 applies mutatis mutandis to committees (see Rule 219(3)).</p></authorialNote></heading>
+                        <paragraph xml:id="_481">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_4810_1_0">
+                                <p xml:space="preserve">The term of office of the President, Vice-Presidents and Quaestors shall be two-and-a-half years.</p>
+                            </content>
+                        </paragraph>
+                        <hcontainer name="annotation" xml:id="_483" refersTo="~_481">
+                            <paragraph>
+                                <content>
+                                    <p xml:space="preserve">When Members change political groups they shall retain, for the remainder of their two-and-a- half-year term of office, any seat they hold in the Bureau or as Quaestors.</p>
+                                </content>
+                            </paragraph>
+                        </hcontainer>
+                        <paragraph xml:id="_486">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4860_1_0">
+                                <p xml:space="preserve">If a vacancy for one of these positions occurs before the expiry of this term of office, the Member elected shall serve only the remaining period of his or her predecessor's term of office.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_488">
+                        <num xml:space="preserve">Rule 20</num>
+                        <heading xml:space="preserve">Vacancies<authorialNote marker="12" placement="bottom"
+                                                                              ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                                              xml:id="_401211438581947100"><p>Rule 20 applies mutatis mutandis to committees (see Rule 219(3)).</p></authorialNote></heading>
+                        <paragraph xml:id="_490">
+                            <num xml:space="preserve">1.</num>
+                            <subparagraph xml:id="_491">
+                                <content>
+                                    <p xml:space="preserve">If it becomes necessary for the President, a Vice-President or a Quaestor to be replaced, a successor shall be elected in accordance with the respective rules for elections to the office concerned.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_493">
+                                <content>
+                                    <p xml:space="preserve">A newly elected Vice-President shall take the place of his or her predecessor in the order of precedence.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_495">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_4950_1_0">
+                                <p xml:space="preserve">If the office of President becomes vacant, a Vice-President, determined in accordance with the order of precedence, shall act as President until a new President is elected.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_497">
+                        <num xml:space="preserve">Rule 21</num>
+                        <heading xml:space="preserve">Early termination of an office</heading>
+                        <alinea xml:id="_499">
+                            <content>
+                                <p xml:space="preserve">The Conference of Presidents may, acting by a majority of three-fifths of the votes cast, representing at least three political groups, propose to Parliament that it bring to an end the term of office of the President, a Vice-President, a Quaestor, a Chair or Vice-Chair of a committee, a Chair or Vice-Chair of an interparliamentary delegation, or of any other office holder elected within the Parliament, where it considers that the Member in question has been guilty of serious misconduct. Parliament shall take a decision on that proposal by a majority of two-thirds of the votes cast, constituting a majority of its component Members.</p>
+                            </content>
+                        </alinea>
+                        <alinea xml:id="_501">
+                            <content>
+                                <p xml:space="preserve">Where a rapporteur breaches the provisions of the Code of Conduct for Members of the <organization
+                                        ep:ref="eu.europa.europarl.codict:institution/id=27" refersTo=""
+                                        status="verbatim">European Parliament</organization> regarding integrity and
+                                    transparency
+                                    <authorialNote marker="13" placement="bottom"
+                                                   ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                                   xml:id="_170502111008275"><p>See Annex I.</p></authorialNote>, the
+                                    committee which appointed him or her may, at the initiative of the President and on
+                                    a proposal by the Conference of Presidents, terminate the holding of that office.
+                                    The majorities laid down in the first paragraph shall apply <i>mutatis mutandis </i>to
+                                    each stage of this procedure.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                </chapter>
+                <chapter ep:toc="true" xml:id="_513">
+                    <num xml:space="preserve">CHAPTER 3</num>
+                    <heading xml:space="preserve">BODIES AND DUTIES</heading>
+                    <article ep:toc="true" xml:id="_515">
+                        <num xml:space="preserve">Rule 22</num>
+                        <heading xml:space="preserve">Duties of the President</heading>
+                        <paragraph xml:id="_517">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_5170_1_0">
+                                <p xml:space="preserve">The President shall direct all the activities of Parliament and its bodies in accordance with these Rules and shall enjoy all powers that are necessary to preside over the proceedings of Parliament and to ensure that they are properly conducted.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_522">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5220_1_0">
+                                <p xml:space="preserve">The duties of the President shall be to open, suspend and close sittings; to rule on the admissibility of amendments and other texts put to the vote, as well as on the admissibility of parliamentary questions; to ensure observance of these Rules; to maintain order; to call upon speakers; to close debates; to put matters to the vote and to announce the results of votes; as well as to refer to committees any communications that concern them.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_524">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_5240_1_0">
+                                <p xml:space="preserve">The President may speak in a debate only to sum up or to call speakers to order. Should the President wish to take part in a debate, he or she shall vacate the chair and shall not reoccupy it until the debate is over.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_526">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_5260_1_0">
+                                <p xml:space="preserve">Parliament shall be represented in international relations, on ceremonial occasions and in administrative, legal and financial matters by the President, who may delegate these powers.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124143630399">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_1611241436303990_1_0">
+                                <p xml:space="preserve">The President is responsible for the security and the inviolability of the premises of the European Parliament.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_528">
+                        <num xml:space="preserve">Rule 23</num>
+                        <heading xml:space="preserve">Duties of the Vice-Presidents</heading>
+                        <paragraph xml:id="_530">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_5300_1_0">
+                                <p xml:space="preserve">If the President is absent or unable to discharge his or her duties, or if the President wishes to take part in a debate pursuant to Rule 22(3), he or she shall be replaced by one of the Vice-Presidents determined in accordance with the order of precedence.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_532">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5320_1_0">
+                                <p xml:space="preserve">The Vice-Presidents shall also carry out the duties conferred upon them under Rules 25, 27(3) and (5), and 78(3).</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_534">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_5340_1_0">
+                                <p xml:space="preserve">The President may delegate any duties to the Vice-Presidents, such as representing Parliament at specific ceremonies or acts. In particular, the President may designate a Vice- President to carry out the duties of the President laid down in Rules 143 and 144(2).</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_536">
+                        <num xml:space="preserve">Rule 24</num>
+                        <heading xml:space="preserve">Composition of the Bureau</heading>
+                        <paragraph xml:id="_538">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_5380_1_0">
+                                <p xml:space="preserve">The Bureau shall consist of the President and the 14 Vice-Presidents of Parliament.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_540">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5400_1_0">
+                                <p xml:space="preserve">The Quaestors shall be members of the Bureau in an advisory capacity.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_542">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_5420_1_0">
+                                <p xml:space="preserve">If voting in the Bureau results in a tie, the President shall have the casting vote.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_544">
+                        <num xml:space="preserve">Rule 25</num>
+                        <heading xml:space="preserve">Duties of the Bureau</heading>
+                        <paragraph xml:id="_546">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_5460_1_0">
+                                <p xml:space="preserve">The Bureau shall carry out the duties assigned to it under these Rules of Procedure.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_548">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5480_1_0">
+                                <p xml:space="preserve">The Bureau shall take financial, organisational and administrative decisions on matters concerning the internal organisation of Parliament, its Secretariat and its bodies.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_550">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_5500_1_0">
+                                <p xml:space="preserve">The Bureau shall take financial, organisational and administrative decisions on matters concerning Members on a proposal of the Secretary-General or of a political group.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_552">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_5520_1_0">
+                                <p xml:space="preserve">The Bureau shall take decisions on matters relating to the conduct of sittings.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_557">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_5570_1_0">
+                                <p xml:space="preserve">The Bureau shall adopt the provisions referred to in Rule 37 concerning non-attached Members.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_559">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_5590_1_0">
+                                <p xml:space="preserve">The Bureau shall decide the establishment plan of the Parliament’s Secretariat and shall lay down regulations concerning the administrative and financial situation of officials and other servants.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_561">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_5610_1_0">
+                                <p xml:space="preserve">The Bureau shall draw up Parliament's preliminary draft budget estimates.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_563">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_5630_1_0">
+                                <p xml:space="preserve">The Bureau shall adopt the guidelines for the Quaestors, and may request that they carry out certain tasks.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_565">
+                            <num xml:space="preserve">9.</num>
+                            <content xml:id="_566">
+                                <p xml:space="preserve">The Bureau shall be the authority responsible for authorising expenditure for hearings.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_572">
+                            <num xml:space="preserve">10.</num>
+                            <content xml:id="_5720_1_0">
+                                <p xml:space="preserve">The Bureau shall appoint the Secretary-General in accordance with Rule 240.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_574">
+                            <num xml:space="preserve">11.</num>
+                            <content xml:id="_5740_1_0">
+                                <p xml:space="preserve">The Bureau shall lay down the implementing rules relating to the regulations governing political parties and foundations at European level and the rules regarding their funding.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_576">
+                            <num xml:space="preserve">12.</num>
+                            <content xml:id="_5760_1_0">
+                                <p xml:space="preserve">The Bureau shall lay down rules concerning the treatment of confidential information by Parliament and its bodies, office-holders and other Members, taking into account any interinstitutional agreement concluded on such matters. Those rules shall be published in the <i>Official Journal of the European Union</i>.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_579">
+                            <num xml:space="preserve">13.</num>
+                            <content xml:id="_5790_1_0">
+                                <p xml:space="preserve">The President and/or the Bureau may entrust one or more members of the Bureau with general or specific tasks lying within the competence of the President and/or the Bureau. At the same time the ways and means of carrying them out shall be laid down.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_581">
+                            <num xml:space="preserve">14.</num>
+                            <content xml:id="_5810_1_0">
+                                <p xml:space="preserve">The Bureau shall nominate two Vice-Presidents who shall be entrusted with the implementation of relations with the national parliaments.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_586">
+                            <num xml:space="preserve">15.</num>
+                            <content xml:id="_5860_1_0">
+                                <p xml:space="preserve">The Bureau shall nominate a Vice-President who shall be entrusted with the implementation of structured consultation with European civil society on major topics.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124144314032">
+                            <num xml:space="preserve">16.</num>
+                            <content xml:id="_1611241443140320_1_0">
+                                <p xml:space="preserve">The Bureau shall be responsible for the application of the Statute for Members and shall decide on the amounts of the allowances on the basis of the annual budget.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_588">
+                        <num xml:space="preserve">Rule 26</num>
+                        <heading xml:space="preserve">Composition of the Conference of Presidents</heading>
+                        <paragraph xml:id="_590">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_5900_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall consist of the President of Parliament and the Chairs of the political groups. The Chair of a political group may arrange to be represented by a member of that group.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_592">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_5920_1_0">
+                                <p xml:space="preserve">The President of Parliament shall, after giving the opportunity to non-attached Members to express their views, invite one of them to attend meetings of the Conference of Presidents, without the right to vote.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_594">
+                            <num xml:space="preserve">3.</num>
+                            <subparagraph xml:id="_595">
+                                <content>
+                                    <p xml:space="preserve">The Conference of Presidents shall endeavour to reach a consensus on the matters referred to it.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_597">
+                                <content>
+                                    <p xml:space="preserve">Where a consensus cannot be reached, the matter shall be put to a vote subject to a weighting based on the number of Members in each political group.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_599">
+                        <num xml:space="preserve">Rule 27</num>
+                        <heading xml:space="preserve">Duties of the Conference of Presidents</heading>
+                        <paragraph xml:id="_601">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6010_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall carry out the duties assigned to it under these Rules of Procedure.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_603">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_6030_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall take decisions on the organisation of Parliament's work and on matters of legislative planning.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_605">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_6050_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall be the authority responsible for matters concerning Parliament’s relations with the other institutions and bodies of the European Union and with the national parliaments of Member States. Decisions concerning the mandate and composition of the delegation from Parliament which is to participate in consultations within the Council and in other European Union Institutions on fundamental issues concerning the development of the European Union (Sherpa process) shall be taken on the basis of relevant positions adopted by Parliament and taking into account the diversity of political views represented within Parliament. The Vice- Presidents who have been entrusted with the implementation of Parliament’s relations with the national parliaments shall regularly report back to the Conference of Presidents on their activities in that regard.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_607">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_6070_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall be the authority responsible for matters concerning relations with non-member countries and with non-Union institutions and organisations.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_609">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_6090_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall be responsible for organising structured consultation with European civil society on major topics. That consultation may include holding public debates on subjects of general European interest in which interested citizens may participate. The Vice-President responsible for the implementation of such consultation shall report back regularly to the Conference of Presidents on his or her activities in this regard.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_611">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_6110_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall draw up the draft agenda of Parliament's part-sessions.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_613">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_6130_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall make proposals to Parliament concerning the composition and competence of committees, special committees, committees of inquiry, joint parliamentary committees and standing interparliamentary delegations. The Conference of Presidents shall be the authority responsible for proposing to Parliament the setting up of temporary legislative committees in accordance with Rule 214.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_615">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_6150_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall be the authority responsible for authorising missions away from the usual places of work and interparliamentary meetings.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_617">
+                            <num xml:space="preserve">9.</num>
+                            <content xml:id="_6170_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall decide pursuant to Rule 38 how seats in the Chamber are to be allocated.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_619">
+                            <num xml:space="preserve">10.</num>
+                            <content xml:id="_6190_1_0">
+                                <p xml:space="preserve">The Conference of Presidents shall be the authority responsible for authorising the drawing up of own-initiative reports.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1hskl0qhk">
+                            <num xml:space="preserve">11.</num>
+                            <content xml:id="_x1hskl0qho">
+                                <p xml:space="preserve">The Conference of Presidents shall submit to the Bureau proposals on administrative and budgetary matters concerning the political groups.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_621">
+                        <num xml:space="preserve">Rule 28</num>
+                        <heading xml:space="preserve">Duties of the Quaestors</heading>
+                        <alinea xml:id="_623">
+                            <content>
+                                <p xml:space="preserve">The Quaestors shall be responsible for administrative and financial matters directly concerning Members, in accordance with guidelines laid down by the Bureau, as well as for other tasks entrusted to them.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                    <article ep:toc="true" xml:id="_625">
+                        <num xml:space="preserve">Rule 29</num>
+                        <heading xml:space="preserve">Conference of Committee Chairs</heading>
+                        <paragraph xml:id="_627">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6270_1_0">
+                                <p xml:space="preserve">The Conference of Committee Chairs shall consist of the Chairs of all standing or special committees. It shall elect its chair.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124145523626">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_1611241455236260_1_0">
+                                <p xml:space="preserve">In the absence of the Chair, the meeting of the Conference shall be chaired by the oldest Member present.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_632">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_6320_1_0">
+                                <p xml:space="preserve">The Conference of Committee Chairs may make recommendations to the Conference of Presidents about the work of committees and the drafting of the agendas of part-sessions.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_634">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_6340_1_0">
+                                <p xml:space="preserve">The Bureau and the Conference of Presidents may instruct the Conference of Committee Chairs to carry out specific tasks.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_636">
+                        <num xml:space="preserve">Rule 30</num>
+                        <heading xml:space="preserve">Conference of Delegation Chairs</heading>
+                        <paragraph xml:id="_638">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6380_1_0">
+                                <p xml:space="preserve">The Conference of Delegation Chairs shall consist of the Chairs of all standing interparliamentary delegations. It shall elect its chair.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124145612966">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_1611241456129660_1_0">
+                                <p xml:space="preserve">In the absence of the Chair, the meeting of the Conference shall be chaired by the oldest Member present.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_643">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_6430_1_0">
+                                <p xml:space="preserve">The Conference of Delegation Chairs may make recommendations to the Conference of Presidents about the work of the delegations.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_645">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_6450_1_0">
+                                <p xml:space="preserve">The Bureau and the Conference of Presidents may instruct the Conference of Delegation Chairs to carry out specific tasks.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_161124145644523">
+                        <num xml:space="preserve">Rule 31</num>
+                        <heading xml:space="preserve">Continuity of an office during the election period</heading>
+                        <alinea xml:id="_161124145715445">
+                            <content>
+                                <p xml:space="preserve">When a new Parliament is elected, all bodies and office holders of the outgoing Parliament shall continue to be in office until the first sitting of the new Parliament. </p>
+                            </content>
+                        </alinea>
+                    </article>
+                    <article ep:toc="true" xml:id="_647">
+                        <num xml:space="preserve">Rule 32</num>
+                        <heading
+                                xml:space="preserve">Accountability of the Bureau and the Conference of Presidents</heading>
+                        <paragraph xml:id="_649">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6490_1_0">
+                                <p xml:space="preserve">The minutes of the Bureau and the Conference of Presidents shall be translated into the official languages and distributed to all Members of Parliament. They shall be accessible to the public, unless the Bureau or the Conference of Presidents exceptionally, for reasons of confidentiality, subject to Article 4(1) to (4) of Regulation (EC) No 1049/2001, decides otherwise with regard to certain items of the minutes.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_651">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_6510_1_0">
+                                <p xml:space="preserve">Any Member of Parliament may ask questions concerning the performance by the Bureau, the Conference of Presidents and the Quaestors of their respective duties. Such questions shall be submitted to the President in writing, notified to Members and published on Parliament's website within 30 days of tabling, together with the answers given.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                </chapter>
+                <chapter ep:toc="true" xml:id="_663">
+                    <num xml:space="preserve">CHAPTER 4</num>
+                    <heading xml:space="preserve">POLITICAL GROUPS</heading>
+                    <article ep:toc="true" xml:id="_665">
+                        <num xml:space="preserve">Rule 33</num>
+                        <heading xml:space="preserve">Establishment and dissolution of political groups</heading>
+                        <paragraph xml:id="_667">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6670_1_0">
+                                <p xml:space="preserve">Members may form themselves into groups according to their political affinities.</p>
+                            </content>
+                        </paragraph>
+                        <hcontainer name="annotation" xml:id="_669" refersTo="~_667">
+                            <paragraph>
+                                <content>
+                                    <p xml:space="preserve">Parliament need not normally evaluate the political affinity of members of a group. In forming a group together under this Rule, the Members concerned accept by definition that they have political affinity. Only when this is denied by the Members concerned is it necessary for Parliament to evaluate whether the group has been constituted in accordance with the Rules.</p>
+                                </content>
+                            </paragraph>
+                        </hcontainer>
+                        <paragraph xml:id="_672">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_6720_1_0">
+                                <p xml:space="preserve">A political group shall consist of Members elected in at least one-quarter of the Member States. The minimum number of Members required to form a political group shall be 23.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_674">
+                            <num xml:space="preserve">3.</num>
+                            <list xml:id="_675">
+                                <intro>
+                                    <p xml:space="preserve">If a group falls below one of the required thresholds, the President, with the agreement of the Conference of Presidents, may allow it to continue to exist until Parliament's next constitutive sitting, provided the following conditions are met:</p>
+                                </intro>
+                                <indent xml:id="_677">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">the members continue to represent at least one-fifth of the Member States;</p>
+                                    </content>
+                                </indent>
+                                <indent xml:id="_679">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">the group has been in existence for a period that is longer than a year.</p>
+                                    </content>
+                                </indent>
+                            </list>
+                            <subparagraph xml:id="_681">
+                                <content>
+                                    <p xml:space="preserve">The President shall not apply this derogation where there is sufficient evidence to suspect that it is being abused.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_683">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_6830_1_0">
+                                <p xml:space="preserve">A Member may not belong to more than one political group.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_553856983420031100">
+                            <num xml:space="preserve">5.</num>
+                            <list xml:id="_566159577675541950">
+                                <intro>
+                                    <p xml:space="preserve">The President shall be notified in a statement when a political group is set up. That statement shall specify:</p>
+                                </intro>
+                                <indent xml:id="_586887400708165700">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">the name of the group,</p>
+                                    </content>
+                                </indent>
+                                <indent xml:id="_375593719791092350">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">a political declaration, setting out the purpose of the group, and</p>
+                                    </content>
+                                </indent>
+                                <hcontainer name="annotation" xml:id="_x1hbqrboak" refersTo="~_375593719791092350">
+                                    <paragraph>
+                                        <content>
+                                            <p xml:space="preserve">The political declaration of a group shall set out the values that the group stands for and the main political objectives which its members intend to pursue together in the framework of the exercise of their mandate. The declaration shall describe the common political orientation of the group in a substantial, distinctive and genuine way.</p>
+                                        </content>
+                                    </paragraph>
+                                </hcontainer>
+                                <indent xml:id="_755144728029917000">
+                                    <num xml:space="preserve">–</num>
+                                    <content>
+                                        <p xml:space="preserve">the names of its members and bureau members.</p>
+                                    </content>
+                                </indent>
+                            </list>
+                            <subparagraph xml:id="_880290238767123000">
+                                <content>
+                                    <p xml:space="preserve">All members of the group shall declare in writing in an annex to the statement that they share the same political affinity.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_687">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_6870_1_0">
+                                <p xml:space="preserve">The statement shall be annexed to the minutes of the part-session during which the announcement of the establishment of the political group is made.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124145945974">
+                            <num xml:space="preserve">7.</num>
+                            <subparagraph xml:id="_161124150005061">
+                                <content>
+                                    <p xml:space="preserve">The President shall announce the establishment of political groups in Parliament. Such announcement shall have retroactive legal effect from the moment when the group notified its establishment to the President in accordance with this Rule.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_161124150002176">
+                                <content>
+                                    <p xml:space="preserve">The President shall also announce the dissolution of political groups in Parliament. Such an announcement will take legal effect on the day following that on which the political group no longer met the conditions for existence.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_689">
+                        <num xml:space="preserve">Rule 34</num>
+                        <heading xml:space="preserve">Activities and legal situation of the political groups</heading>
+                        <paragraph xml:id="_691">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6910_1_0">
+                                <p xml:space="preserve">The political groups shall carry out their duties as part of the activities of the Union, including the tasks allocated to them by these Rules of Procedure. The political groups shall be provided with a secretariat on the basis of the establishment plan of the Parliament’s Secretariat, with administrative facilities and with the appropriations entered for that purpose in Parliament's budget.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161214094727626">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_1612140947276260_1_0">
+                                <p xml:space="preserve">At the beginning of each parliamentary term, the Conference of Presidents shall endeavour to agree procedures for reflecting the political diversity of Parliament in the committees and delegations, as well as in the decision-making bodies.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_693">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_6930_1_0">
+                                <p xml:space="preserve">The Bureau shall, having regard to any proposal made by the Conference of Presidents, lay down the rules relating to the provision, implementation and monitoring of the facilities and appropriations referred to in paragraph 1, as well as to the related delegations of budget implementation powers and the consequences of any failure to respect those rules.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_695">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_6950_1_0">
+                                <p xml:space="preserve">Those rules shall determine the administrative and financial consequences in the event of the dissolution of a political group.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_697">
+                        <num xml:space="preserve">Rule 35</num>
+                        <heading xml:space="preserve">Intergroups</heading>
+                        <paragraph xml:id="_699">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_6990_1_0">
+                                <p xml:space="preserve">Individual Members may form intergroups for the purpose of holding informal exchanges of views on specific issues across different political groups, drawing on members of different parliamentary committees, and of promoting contact between Members and civil society.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_701">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_7010_1_0">
+                                <p xml:space="preserve">Intergroups shall be fully transparent in their actions. They shall not engage in any activities which might result in confusion with the official activities of Parliament or of its bodies. In particular, they shall not use the name or the logo of Parliament. They may not organise events in third countries that coincide with a mission of an official Parliament body, including an official election observation delegation.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124150323336">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_1611241503233360_1_0">
+                                <p xml:space="preserve">Provided that the conditions laid down in Parliament’s internal rules governing the establishment of intergroups are complied with, a political group may facilitate their activities by providing them with logistical support.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_161124150331495">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_1611241503314950_1_0">
+                                <p xml:space="preserve">Intergroups shall be required to make an annual declaration of any support, including in cash or in kind, which, if offered to Members as individuals, would have had to be declared under Annex I.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_253436042889720450">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_2534360428897204500_1_0">
+                                <p xml:space="preserve">Interest representatives may only participate in intergroup activities organised on Parliament’s premises, for instance by attending meetings or events of the intergroup, by offering support to it, or by co-hosting its events, if they are entered in the transparency register established by means of the Interinstitutional Agreement on a mandatory transparency register<authorialNote
+                                        marker="14" placement="bottom" ep:tref="xml4ep:/concept/authorialNote/footnote"
+                                        xml:id="_x1ha9stpe5"><p><ref href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2021.207.01.0001.01.ENG">Interinstitutional Agreement of 20 May 2021 between the European Parliament, the Council of the European Union and the European Commission on a mandatory transparency register (OJ L 207, 11.6.2021, p. 1, ELI: http://data.europa.eu/eli/agree_interinstit/2021/611/oj).</ref></p></authorialNote>.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_30287365559663604">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_302873655596636040_1_0">
+                                <p xml:space="preserve">The Quaestors shall keep a public register of the intergroups and of the declarations referred to in paragraph 4. The Bureau shall adopt detailed rules on that register and on those declarations and their publication on Parliament’s website.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_752797236103835800">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_7527972361038358000_1_0">
+                                <p xml:space="preserve">The Quaestors shall ensure the effective enforcement of this Rule.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9t05lt">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_x1ha9t05lt0_1_0">
+                                <p xml:space="preserve">In the event of a breach of this Rule, the Quaestors may impose on the intergroup a ban on using Parliament’s facilities for a period which may not exceed the remainder of the parliamentary term.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_x1ha9t8ate">
+                        <num xml:space="preserve">Rule 36</num>
+                        <heading xml:space="preserve">Unofficial groupings</heading>
+                        <paragraph xml:id="_x1ha9t8atj">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_x1ha9t8atj0_1_0">
+                                <p xml:space="preserve">Individual Members may form unofficial groupings for the purpose of holding informal exchanges of views on specific issues across different political groups, drawing on members of different parliamentary committees, and of promoting contact between Members and civil society.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9tb39u">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_x1ha9tb39u0_1_0">
+                                <p xml:space="preserve">Unofficial groupings shall be fully transparent in their actions. They shall not engage in any activities which might result in confusion with the official activities of Parliament or of its bodies. In particular, they shall not use the name or the logo of Parliament. They may not organise events in third countries that coincide with a mission of an official Parliament body, including an official election observation delegation. Members participating in unofficial groupings shall proactively disclose to external interlocutors that they are acting in their capacity as individual Members.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9tdenl">
+                            <num xml:space="preserve">3.</num>
+                            <subparagraph xml:id="_x1ha9tdeno">
+                                <content>
+                                    <p xml:space="preserve">A political group may facilitate the activities of unofficial groupings by providing them with logistical support, except in the case of unofficial groupings related to third countries for which a standing interparliamentary delegation as referred to in Rule 229 exists.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_x1ha9ter25">
+                                <content>
+                                    <p xml:space="preserve">Unofficial groupings related to third countries for which a standing interparliamentary delegation as referred to in Rule 229 exists shall not benefit from any facilities of Parliament for their activities.</p>
+                                </content>
+                            </subparagraph>
+                            <subparagraph xml:id="_x1ha9tg940">
+                                <content>
+                                    <p xml:space="preserve">The relation to the third country may result from the name or the activities of the unofficial grouping.</p>
+                                </content>
+                            </subparagraph>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9thc4t">
+                            <num xml:space="preserve">4.</num>
+                            <content xml:id="_x1ha9thc4t0_1_0">
+                                <p xml:space="preserve">Unofficial groupings shall be required to declare, by the end of the following month, any support, including in cash or in kind. In the absence of such a declaration, the Chair of the grouping or, if the grouping has no Chair, any Member participating in it shall declare the support within 10 working days following the expiry of that deadline.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9thtvl">
+                            <num xml:space="preserve">5.</num>
+                            <content xml:id="_x1ha9thtvl0_1_0">
+                                <p xml:space="preserve">Interest representatives may only participate in unofficial grouping activities organised on Parliament’s premises, for instance by attending meetings or events of the unofficial grouping, by offering support to it, or by co-hosting its events, if they are entered in the transparency register.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9tifhl">
+                            <num xml:space="preserve">6.</num>
+                            <content xml:id="_x1ha9tifhl0_1_0">
+                                <p xml:space="preserve">The Quaestors shall keep a public register of the declarations referred to in paragraph 4 and of the unofficial groupings that have submitted them. The Bureau shall adopt detailed rules on that register and on those declarations and their publication on Parliament’s website.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9tj25u">
+                            <num xml:space="preserve">7.</num>
+                            <content xml:id="_x1ha9tj25u0_1_0">
+                                <p xml:space="preserve">The Quaestors shall ensure the effective enforcement of this Rule.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_x1ha9tjq1o">
+                            <num xml:space="preserve">8.</num>
+                            <content xml:id="_x1ha9tjq1o0_1_0">
+                                <p xml:space="preserve">In the event of a breach of this Rule, the Quaestors may impose on the unofficial grouping a ban on using Parliament’s facilities for a period which may not exceed the remainder of the parliamentary term.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_708">
+                        <num xml:space="preserve">Rule 37</num>
+                        <heading xml:space="preserve">Non-attached Members</heading>
+                        <paragraph xml:id="_710">
+                            <num xml:space="preserve">1.</num>
+                            <content xml:id="_7100_1_0">
+                                <p xml:space="preserve">Members who do not belong to a political group shall be provided with a secretariat. The detailed arrangements concerning such provision of secretariats shall be laid down by the Bureau on a proposal from the Secretary-General.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_712">
+                            <num xml:space="preserve">2.</num>
+                            <content xml:id="_7120_1_0">
+                                <p xml:space="preserve">The Bureau shall determine the status and parliamentary rights of non-attached Members.</p>
+                            </content>
+                        </paragraph>
+                        <paragraph xml:id="_714">
+                            <num xml:space="preserve">3.</num>
+                            <content xml:id="_7140_1_0">
+                                <p xml:space="preserve">The Bureau shall lay down the rules relating to the provision, implementation and auditing of appropriations entered in Parliament's budget to cover the secretarial expenses and administrative facilities for non-attached Members.</p>
+                            </content>
+                        </paragraph>
+                    </article>
+                    <article ep:toc="true" xml:id="_716">
+                        <num xml:space="preserve">Rule 38</num>
+                        <heading xml:space="preserve">Allocation of seats in the Chamber</heading>
+                        <alinea xml:id="_718">
+                            <content>
+                                <p xml:space="preserve">The Conference of Presidents shall decide how seats in the Chamber are to be allocated to the political groups, the non-attached Members and the institutions of the Union.</p>
+                            </content>
+                        </alinea>
+                    </article>
+                </chapter>
+            </title>
+        </body>
+    </bill>
+</akomaNtoso>

@@ -1,0 +1,21 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Image": {
+    "Name": "neo4j:latest",
+    "Update": "true"
+  },
+  "Ports": [
+    {
+      "ContainerPort": "7474"
+    },
+    {
+      "ContainerPort": "7687"
+    }
+  ],
+  "Environment": [
+    {
+      "Name": "NEO4J_AUTH",
+      "Value": "neo4j/neo4j2025"
+    }
+  ]
+}
